@@ -15,9 +15,9 @@
 - Support Vector Machine
 - Unsupervised Learning
 
-## Certificate of Completition
+## Certificate of Completion
 
-You can see the [Certificate of Completition](https://github.com/AlessandroCorradini/Certificates/blob/master/Stanford%20University%20-%20Statistical%20Learning.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
+You can see the [Certificate of Completion](https://github.com/AlessandroCorradini/Certificates/blob/master/Stanford%20University%20-%20Statistical%20Learning.pdf) and other certificates in my [Certificates Repo](https://github.com/AlessandroCorradini/Certificates) that contains all my certificates obtained through my journey as a self-made Data Science and better developer.
 
 <br/>
 
